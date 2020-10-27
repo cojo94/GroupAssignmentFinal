@@ -1,0 +1,7 @@
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\bin\Debug\GroupAssignment.exe.config
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\bin\Debug\GroupAssignment.exe
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\bin\Debug\GroupAssignment.pdb
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\obj\Debug\GroupAssignment.csprojAssemblyReference.cache
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\obj\Debug\GroupAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\obj\Debug\GroupAssignment.exe
+C:\Users\Conny Johansson\OneDrive\Dokument\Visual Studio repositories\GroupAssignment\GroupAssignment\obj\Debug\GroupAssignment.pdb
